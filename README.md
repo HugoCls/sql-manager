@@ -4,7 +4,7 @@
 The `sql-manager` module provides a simple database class intended to simplify the use of the `mysql-connector-python` module for working with MySQL databases.
 
 ## Installation
-
+ 
 1. Make sure you have the `mysql-connector-python` module installed. If not, use `pip`:
 ```
 pip install mysql-connector-python
