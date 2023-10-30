@@ -8,7 +8,7 @@ The `sql-manager` module provides a simple database class intended to simplify t
 ```
 pip install mysql-connector-python
 ```
-
+ 
 
 2. Download or clone the `sql-manager` repository:
 ```
