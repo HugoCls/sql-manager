@@ -1,4 +1,3 @@
-
 # sql-manager
 
 The `sql-manager` module provides a simple database class intended to simplify the use of the `mysql-connector-python` module for working with MySQL databases.
